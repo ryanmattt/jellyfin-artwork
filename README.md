@@ -1,6 +1,13 @@
-<h1 align="center">Emby Artwork Repository</h1>
+# Jellyfin Network Artwork Repository
+## Description
+This repo contains Artwork for different Networks and studios in the format for jellyfin
 
-This project contains an archive of studio images created by [Emby](https://emby.media/).
-The upstream source is available at [github.com/MediaBrowser/Emby.Resources](https://github.com/MediaBrowser/Emby.Resources).
+## Usage
 
-If you would like to contribute to a new set of studio images under a Creative Commons license, an effort to replace these images has been started in the [Jellyfin Artwork Repository](https://github.com/jellyfin/jellyfin-artwork) project.
+1. Open your Jellyfin Dashboard Settings
+2. Click Plugins
+3. Then click the three dots on Studio Images, click Settings
+4. Change the Repository value to
+	>https://raw.githubusercontent.com/ryanmattt/jellyfin-artwork/main/studios
+
+Submit an issue if you want to add any
